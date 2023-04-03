@@ -128,3 +128,11 @@ Nest is [MIT licensed](LICENSE).
   - ```private usersRepository: Repository<User>, ```
 
 10 - Chama os métodos do repository.
+
+
+## Hospedagens:
+- Back4App 
+- Heroku
+- Digital Ocean
+- Render (free)
+- Fly.io (free)
